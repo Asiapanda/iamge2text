@@ -1,0 +1,8 @@
+C:\CSharpCodes\iamge2text\iamge2text\bin\Debug\iamge2text.exe
+C:\CSharpCodes\iamge2text\iamge2text\bin\Debug\iamge2text.pdb
+C:\CSharpCodes\iamge2text\iamge2text\obj\Debug\ResolveAssemblyReference.cache
+C:\CSharpCodes\iamge2text\iamge2text\obj\Debug\iamge2text.FormLicense.resources
+C:\CSharpCodes\iamge2text\iamge2text\obj\Debug\iamge2text.Properties.Resources.resources
+C:\CSharpCodes\iamge2text\iamge2text\obj\Debug\iamge2text.csproj.GenerateResource.Cache
+C:\CSharpCodes\iamge2text\iamge2text\obj\Debug\iamge2text.exe
+C:\CSharpCodes\iamge2text\iamge2text\obj\Debug\iamge2text.pdb
